@@ -3,6 +3,7 @@ body{
     padding: 0;
     text-align: center;
     background-color: #0e1815;
+    min-width: 725px;
 
 }
 .icon1{
