@@ -1,0 +1,294 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #0e1815;
+
+}
+.icon1{
+    width: 250px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 17px;
+}
+.headerText{
+    color: rgb(174, 88, 57);
+    float: right;
+    font-size: 40px;
+    margin: 40px;
+    margin-top: 50px;
+    font-weight: 600;
+}
+header{
+    height: 125px;
+    background-color: #000;
+}
+.head2, /*.nach1,*/ .nach2{
+    display: inline-block;
+}
+
+.nom1{
+    min-width: 414px;
+    /*background-image: url(img/zastav.webp);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;*/
+}
+.nachalo2{
+    background-image: url(img/zastav.webp);
+    
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 1300px;
+}
+
+.text1{
+    font-size: 102px;
+    font-weight: 900;
+    margin: 0px;
+    padding: 50px 37px 80px;
+    color: rgb(237, 105, 57);
+}
+.icon{
+    width: 50px;
+    padding-bottom: 27px;
+}
+a{text-decoration: none;}
+.date1{
+    /*min-width: 300px;*/
+    font-size: 40px;
+    font-weight: 700;
+    color: rgba(10, 2, 41, 0.5 );
+    color: rgba(2, 1, 7, 0.7);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.date2{
+    font-size: 35px;
+    font-weight: 600;
+    padding-left: 20%;
+    margin: auto;
+    color: #022b1b;
+}
+.nachalo{
+    height: 1295px;
+    padding: 0;
+}
+.nach1{
+    text-align: center;
+    min-width: 300px;
+    padding-right: 40%;
+}
+.icon2{
+    padding-right:12px;
+}
+.nach1{
+    margin-bottom: 80px;
+}
+.nach22{
+    padding-right: 25px;
+}
+.bth1{
+    text-decoration: none;
+  display: inline-block;
+  width: 220px;
+  height: 50px;
+  line-height: 45px;
+  border-radius: 45px;
+  margin: 10px 20px;
+  margin-right: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 600;
+  color: #524f4e;
+  /*background: rgb(233, 241, 236);*/
+  box-shadow: 0 8px 15px rgba(0, 0, 0, .1);
+  transition: .3s;
+}
+.bth1:hover{
+    background: #b4d2c5;
+    box-shadow: 0 15px 20px rgba(238, 243, 241, 0.89);
+    color: rgb(18, 11, 11);
+    transform: translateY(-7px);
+}
+.bth{
+    margin-left: 25px;
+}
+
+.slideshow {
+    width: 100%;
+    height: 60%;
+    position: relative;
+    overflow: hidden;
+    background: #000;
+   
+
+}
+
+.programma{
+    background-image: url(img/zastav2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-bottom: 250px;
+}
+.textProg{
+    color: #d1cec9;
+    font-size: 70px;
+    font-style: oblique ;
+    margin: 0;
+    margin-top: 200px;
+}
+.textProg2{
+    font-size: 70px;
+    font-style: oblique;
+    color: #d1cec9;
+    margin: 0;
+    margin-bottom: 200px;
+}
+.fotoo{
+    margin-bottom: 40px;
+}
+
+.put{
+    height: 1200px;
+    margin: 0 0px ;
+    padding-top: 150px;
+    background-image: url(img/giff.gif);
+    background-size: cover;
+    background-position: 50%;
+    margin-bottom: 5px;
+}
+.textput{
+    color: #b16713;
+    font-size: 30px;
+    font-weight: 600;
+    margin: 0 15px;
+    margin-bottom: 75px;
+}
+
+.iconp{
+    width: 56px;
+  
+}
+
+.icontextput{ 
+    padding-right: 160px;
+    height: 56px;
+    color: #e08421;
+    font-size: 50px;
+    font-weight: 700;
+   
+}
+
+.textput1{
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    font-size: 35px;
+    color: #ac7950;
+    font-weight: 600;
+}
+.textput2{
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    font-size: 35px;
+    color: #da9e62;
+    font-weight: 600;
+
+}
+ h3{
+    margin-top: 100px;
+    font-size: 45px;
+    color: #f5f2ee;
+ }
+ 
+ .bron1{
+    font-size: 30px;
+    margin-bottom: 15px;
+ }
+ .bron2{
+    height: 25px;
+ }
+
+.tur{
+    margin: 60px 0;
+    height: 800px;
+    background-image: url(img/putMedina.jpg);
+    padding-top: 100px;
+}
+
+ .login-box {
+   position: absolute;
+   margin-top: 150px;
+    left: 50%;
+    width: 400px;
+    padding: 40px;
+    transform: translate(-50%, -50%);
+    background: rgba(0,0,0,.5);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.6);
+    border-radius: 10px;
+  }
+  
+  .login-box h2 {
+    margin: 0 0 30px;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .login-box .user-box {
+    position: relative;
+  }
+  
+  .login-box .user-box input {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 25px;
+    color: #fff;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    background: transparent;
+  }
+  .login-box .user-box label {
+    position: absolute;
+    top:0;
+    left: 0;
+    padding: 10px 0;
+    font-size: 25px;
+    color: #fff;
+    pointer-events: none;
+    transition: .5s;
+  }
+  
+  .login-box .user-box input:focus ~ label,
+  .login-box .user-box input:valid ~ label {
+    top: -20px;
+    left: 0;
+    color: #a67122;
+    font-size: 25px;
+  }
+  
+  .login-box form a {
+   position: relative;
+    display: inline-block;
+    padding: 10px 20px;
+    color: #be7d21;
+    font-size: 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+    overflow: hidden;
+    transition: .5s;
+    margin-top: 40px;
+    letter-spacing: 4px
+  }
