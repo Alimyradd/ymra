@@ -321,10 +321,11 @@ a{text-decoration: none;}
         width: 150px;
     }
     .headerText{
-        font-size: 20px;
+        font-size: 18px;
     }
     .text1{
         font-size: 60px;
+        margin-bottom: 50px;
     }
     .fotoo{
         width: 350px;
@@ -351,9 +352,9 @@ a{text-decoration: none;}
    }
 }
  
-@media(max-width: 750px){
+@media(max-width: 675px){
     .ttisa{
-        margin-top: 480px;
+        margin-top: 330px;
     }
     .fotoIsa{
         width: 250px;
@@ -374,10 +375,10 @@ a{text-decoration: none;}
         padding-bottom: 35px;
     }
     .nachalo2{
-        height: 1150px;
+        height: 900px;
     }
     .nachalo{
-        height: 1150px;
+        height: 900px;
 
     }
 }
