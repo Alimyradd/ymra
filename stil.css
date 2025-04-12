@@ -320,6 +320,9 @@ a{text-decoration: none;}
     .icon1{
         width: 150px;
     }
+      header{
+        height: 80px;
+    }
     .headerText{
         font-size: 14px;
     }
